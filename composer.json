@@ -1,0 +1,13 @@
+{
+    "name": "jacksay/zf2-utils",
+    "description": "Utils for Zend Framework 2 projects",
+    "type": "*",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stéphane Bouvry",
+            "email": "stephane.bouvry@unicaen.fr"
+        }
+    ],
+    "require": {}
+}
